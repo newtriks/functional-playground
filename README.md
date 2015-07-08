@@ -14,13 +14,13 @@ Playground for researching functional programming, mainly reactive extensions...
 7. http://www.slideshare.net/RyanAnklam/add-some-fun-to-your-functional-programming-with-rxjs
 8. http://www.slideshare.net/stefanmayer13/functional-reactive-programming-with-rxjs
 9. https://gist.github.com/justinwoo/08f9f8fcdcf865025f18
-10. http://cycle.js.org/
-11. https://github.com/fdecampredon/rx-react
+10. https://github.com/fdecampredon/rx-react
 
 ### FRP
 
 1. http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/
 
-### Resources and libraries
+### Other resources and libraries
 
-1. http://developer.telerik.com/featured/practical-functional-javascript-ramda/
+1. http://cycle.js.org/ <- looks dope!
+2. http://developer.telerik.com/featured/practical-functional-javascript-ramda/
