@@ -15,6 +15,7 @@ Playground for researching functional programming, mainly reactive extensions...
 8. http://www.slideshare.net/stefanmayer13/functional-reactive-programming-with-rxjs
 9. https://gist.github.com/justinwoo/08f9f8fcdcf865025f18
 10. https://github.com/fdecampredon/rx-react
+11. https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540
 
 #### Rx book
 
