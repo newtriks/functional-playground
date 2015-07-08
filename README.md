@@ -16,6 +16,14 @@ Playground for researching functional programming, mainly reactive extensions...
 9. https://gist.github.com/justinwoo/08f9f8fcdcf865025f18
 10. https://github.com/fdecampredon/rx-react
 
+#### Rx book
+
+1. http://xgrommx.github.io/rx-book
+2. http://xgrommx.github.io/rx-book/content/articles/index.html
+3. http://xgrommx.github.io/rx-book/content/similar_libraries/index.html
+4. http://xgrommx.github.io/rx-book/content/presentations/index.html 
+5. http://xgrommx.github.io/rx-book/content/video/index.html
+
 ### FRP
 
 1. http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/
