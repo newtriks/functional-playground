@@ -1,5 +1,5 @@
-# rx-playground
-Playground for researching reactive extensions and JS
+# functional-playground
+Playground for researching functional programming, mainly reactive extensions...
 
 ## Useful links
 
