@@ -29,7 +29,7 @@ Playground for researching functional programming, mainly reactive extensions...
 3. http://xgrommx.github.io/rx-book/content/similar_libraries/index.html
 4. http://xgrommx.github.io/rx-book/content/presentations/index.html 
 5. http://xgrommx.github.io/rx-book/content/video/index.html
-6. 
+
 ### Bacon.js
 
 1. https://github.com/baconjs/bacon.js
