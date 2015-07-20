@@ -14,8 +14,13 @@ Playground for researching functional programming, mainly reactive extensions...
 7. http://www.slideshare.net/RyanAnklam/add-some-fun-to-your-functional-programming-with-rxjs
 8. http://www.slideshare.net/stefanmayer13/functional-reactive-programming-with-rxjs
 9. https://gist.github.com/justinwoo/08f9f8fcdcf865025f18
-10. https://github.com/fdecampredon/rx-react
-11. https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540
+
+#### Rx & ReactJS
+
+1. http://www.aryweb.nl/2015/02/16/Reactive-React-using-reactive-streams/
+2. https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540
+3. https://github.com/fdecampredon/rx-react
+4. http://blog.hertzen.com/post/102991359167/flux-inspired-reactive-data-flow-using-react-and
 
 #### Rx book
 
@@ -24,6 +29,14 @@ Playground for researching functional programming, mainly reactive extensions...
 3. http://xgrommx.github.io/rx-book/content/similar_libraries/index.html
 4. http://xgrommx.github.io/rx-book/content/presentations/index.html 
 5. http://xgrommx.github.io/rx-book/content/video/index.html
+6. 
+### Bacon.js
+
+1. https://github.com/baconjs/bacon.js
+
+### Kefir
+
+1. https://github.com/rpominov/kefir
 
 ### FRP
 
