@@ -21,6 +21,7 @@ Playground for researching functional programming, mainly reactive extensions...
 2. https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540
 3. https://github.com/fdecampredon/rx-react
 4. http://blog.hertzen.com/post/102991359167/flux-inspired-reactive-data-flow-using-react-and
+5. https://github.com/newtriks/react-rx-immutable-example
 
 #### Rx book
 
